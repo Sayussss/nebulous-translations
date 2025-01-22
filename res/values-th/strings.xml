@@ -483,7 +483,7 @@
 
 
     <string name="Already_in_arena_">"อยู่ในอารีนาแล้ว"</string>
-    <string name="Already_in_queue_">"อยู่ในคิวแล้ว"</string>
+    <string name="Already_in_queue_">"อยู่ในคิวแล้ว..."</string>
     <string name="Invalid_Account_ID_">"ไอดีบัญชีไม่ถูกต้อง"</string>
 
     <string name="Validating">"กำลังตรวจสอบ"</string>
