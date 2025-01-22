@@ -1019,7 +1019,7 @@
     <string name="Blob_Outline">โครงร่างตัว</string>
     <string name="Game_Border">แสดงขอบเกม</string>
     <string name="Select_some_text_first">ต้องเลือกข้อความก่อน</string>
-    <string name="Save_the_profile_first">ต้องบันทึกโปรไฟล์ก่อน</string>
+    <string name="Save_the_profile_first">คุณต้องบันทึกโปรไฟล์ก่อน</string>
     <string name="Birthday">วันเกิด</string>
     <string name="Mass_Boost">คะแนนบูสต์</string>
 
