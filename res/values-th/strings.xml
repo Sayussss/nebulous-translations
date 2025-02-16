@@ -160,7 +160,7 @@
     <string name="Mega_Gulp">"กินแบบมูมมาม"</string>
     <string name="Ultra_Gulp">"กินแบบเอร็ดอร่อย"</string>
     <string name="Monster_Gulp">"กินแบบมอนสเตอร์"</string>
-    <string name="Ludicrous_Gulp">"กินไปหัวเราะไป"</string>
+    <string name="Ludicrous_Gulp">"กินหมดไม่สนใคร!"</string>
 
     <string name="Blobicide">"นักกินมือสมัครเล่น"</string>
     <string name="Blobtrocity">"นักกินมือโปร"</string>
@@ -417,7 +417,7 @@
     <string name="Error_in_backup_data_">"ข้อผิดพลาดในการสำรองข้อมูล!"</string>
 
 
-    <string name="Remove_Ads">"ลบโฆษณา"</string>
+    <string name="Remove_Ads">"ลบโฆษณา(ถาวร)"</string>
     <string name="Reward">"รางวัล"</string>
     <string name="Please_Wait___">"โปรดรอ…"</string>
     <string name="Purchasing">"กำลังซื้อ"</string>
@@ -521,7 +521,7 @@
     <string name="Collect_10_000_snowflakes_">"เก็บ 10,000 เกล็ดหิมะ"</string>
     <string name="Show_All">"แสดงทั้งหมด"</string>
 
-    <string name="SET_PERMISSIONS">"ตั้งค่าสิทธิ์"</string>
+    <string name="SET_PERMISSIONS">"ตั้งค่าสิทธิ์แคลน"</string>
     <string name="Start_Clan_War">"เริ่มต้นแคลนวอ"</string>
     <string name="Min_Level">"เลเวลต่ำสุด"</string>
     <string name="SAVE">"บันทึก"</string>
@@ -1017,7 +1017,7 @@
     <string name="Clan_Particle_Uploads">อัปโหลดละอองแคลน</string>
     <string name="Particle_Uploads">อัปโหลดละออง</string>
     <string name="Blob_Outline">โครงร่างตัว</string>
-    <string name="Game_Border">แสดงขอบเกม</string>
+    <string name="Game_Border">แสดงเส้นกั้นขอบแมพของเกม</string>
     <string name="Select_some_text_first">ต้องเลือกข้อความก่อน</string>
     <string name="Save_the_profile_first">ต้องบันทึกโปรไฟล์ก่อน</string>
     <string name="Birthday">วันเกิด</string>
@@ -1167,7 +1167,7 @@
 
     <string name="Refund__Multiskin">คืนเงิน\nหลายสกิน</string>
     <string name="Invalid_Clan_ID_">ไอดีแคลนไม่ถูกต้อง</string>
-    <string name="MUTED">ปิดเสียงแล้ว</string>
+    <string name="MUTED">ปิดการสื่อสารแล้ว</string>
     <string name="SKIN">สกิน</string>
     <string name="Choose_Skin_Size">เลือกขนาดของสกิน</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">ผู้เล่นคนอื่นจะไม่ได้ยินเสียงคุณ!</string>
